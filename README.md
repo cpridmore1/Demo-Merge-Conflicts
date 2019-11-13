@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Clayton Pridmore
+A simple demo, by Clayton Pridmore, for DMIT-2018
