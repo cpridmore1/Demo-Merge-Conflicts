@@ -2,4 +2,4 @@
 
 A simple demo, by Clayton Pridmore, for DMIT-2018
 
-desktop lol olo lol
+Desktop testing
